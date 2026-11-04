@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Perfumeria</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="name_perfumeria">Farid</string>
+    <string name="description_perfumeria">Perfumeria Colección</string>
+    <string name="slogan_perfumeria">Los mejores perfumes para todo el mundo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+    <string name="onboarding_title">Descubre fragancias que te definen.</string>
+    <string name="onboarding_description">Descubre nuestra cuidada colección de perfumes de alta gama, creados para combinar con tu estado de ánimo, tu personalidad y cada momento.</string>
+</resources>
